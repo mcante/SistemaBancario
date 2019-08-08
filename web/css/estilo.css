@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url(../imagenes/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+#cuadro{
+    width: 330px;
+    background: #090909;
+    color: #ffffff;
+    margin: auto;
+    margin-top: 120px;
+    padding: 5px 5px 30px 5px;
+    border-top: 35px solid #141414;
+    border-right: 35px solid #141414;
+    border-left: 35px solid #141414;
+    border-radius: 6px;
+    opacity: 0.8;
+}
+.entrada{
+    width: 320px;
+    height: 35px;
+    border-radius: 6px;
+    font-family: verdana;
+}
+#boton{
+    width: 324px;
+    height: 45px;
+    border-radius: 6px;
+    background: blue;
+    color: #ffffff;
+    font-size: 15px;
+}
+#titulo{
+    font-size: 30px;
+    font-family: fantasy;
+}
+#subtitulo{
+    padding-left: 80px;
+}
+#subtitulo2{
+    padding-left: 107px;
+}
+
